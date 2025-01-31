@@ -114,7 +114,7 @@ const Page = () => {
                 <Bell className="w-6 h-6 text-black" />
               </div>
               <div>
-                <h3 className={`font-semibold mb-2 ${isDarkMode ? 'text-white' : 'text-gray-900'}`}>Smart & AI Powered Reminders</h3>
+                <h3 className={`font-semibold mb-2 ${isDarkMode ? 'text-white' : 'text-gray-900'}`}>Reminders</h3>
                 <p className={`${isDarkMode ? 'text-gray-400' : 'text-gray-600'}`}>Never miss your appointments</p>
               </div>
             </div>
