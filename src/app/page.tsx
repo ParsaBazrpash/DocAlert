@@ -325,7 +325,7 @@ const Page = () => {
                 How does the reminder system work?
               </h3>
               <p className={`${isDarkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-                Our AI-powered reminder system sends notifications via email and SMS 24 hours before your appointment, and again 2 hours before. You can customize your reminder preferences in your account settings.
+                Our reminder system sends notifications via email and SMS 24 hours before your appointment, and again 2 hours before. You can customize your reminder preferences in your account settings.
               </p>
             </div>
             <div>
